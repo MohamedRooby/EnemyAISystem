@@ -2,6 +2,7 @@
 
 Developed with Unreal Engine 5
 
+- Developed an Enemy AI System using C++ and Blueprints.
 - Creating the logic of NPC by behavioral tree.
 - if the enemy can't see the player, he will be in patrol state and walk in defined path.
 ![Screenshot 2025-01-25 184953](https://github.com/user-attachments/assets/499698a6-500b-4b73-80b9-809b682120ec)
